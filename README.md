@@ -43,9 +43,9 @@ Run the script:
 
 # future ideas
 
-- [ ] Implement support for different browsers.
+- [ X ] Implement support for different browsers.
 
-- [ ] Improve compatibility with different proxies
+- [ X ] Improve compatibility with different proxies
   
 
 # Disclaimer
